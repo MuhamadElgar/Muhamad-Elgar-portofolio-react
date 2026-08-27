@@ -628,7 +628,7 @@ function App() {
                           className="w-full text-xs py-2.5 px-4 rounded-lg flex items-center justify-center gap-2 transition-all font-medium hover:bg-[var(--accent)] hover:text-white hover:border-[var(--accent)]"
                           style={{ color: 'var(--accent)', border: `1px solid var(--accent)`, ...fontMono }}
                         >
-                          Open Repository ↗
+                          {p.link.includes('github') ? 'Open Repository ↗' : 'Visit Website ↗'}
                         </a>
                       ) : (
                         <span
