@@ -1,6 +1,7 @@
 import bannerArthouse from './assets/banner/banner arthouse.jfif';
 import bannerMaison from './assets/banner/banner maison.png';
 import bannerWaebo from './assets/banner/banner waebo.jfif';
+import bannerDeskify from './assets/banner/banner deskify.jfif';
 
 const dataDiri = {
   nama: "Muhamad Elgar",
@@ -78,6 +79,16 @@ const dataDiri = {
       desc: "Proyek dummy mandiri yang dibuat menggunakan React dan Tailwind CSS.",
       tech: ["React", "Tailwind CSS"],
       link: "https://weabo-association.vercel.app/",
+    },
+    {
+      id: 5,
+      title: "Deskify",
+      time: "Recent Project",
+      role: "Front End Developer",
+      image: bannerDeskify,
+      desc: "Proyek dummy mandiri yang dibuat menggunakan React dan Tailwind CSS.",
+      tech: ["React", "Tailwind CSS"],
+      link: "https://deskify-psi.vercel.app/",
     }
   ],
   education: [
