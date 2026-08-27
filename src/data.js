@@ -1,6 +1,6 @@
 import bannerArthouse from './assets/banner/banner arthouse.jfif';
 import bannerMaison from './assets/banner/banner maison.png';
-import bannerWaebo from './assets/banner/banner waebo.jfif';
+import bannerWaebo from './assets/banner/banner weabo.jfif';
 import bannerDeskify from './assets/banner/banner deskify.jfif';
 
 const dataDiri = {
